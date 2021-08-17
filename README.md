@@ -15,6 +15,7 @@ This project requires GPU acceleration to run efficiently.
     3. Model 3: Bidirectional RNNs
     4. Model 4: Encoder-Decoder
     5. Model 5: Custom
+5. visualizing and evaluating the models
 
 
 
