@@ -3,7 +3,7 @@
 
 Photo by <a href="https://unsplash.com/@rvignes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Romain Vignes</a> on <a href="https://unsplash.com/s/photos/language-translation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-In this project, I build a machine translation model Using CNNS, GRUS, transformers that functions as part of an end-to-end machine translation pipeline. My completed pipeline will accept English text as input and return the French translation.
+In this project, I build a machine translation model Using CNNS, GRUS, and transformers that function as part of an end-to-end machine translation pipeline. My completed pipeline will accept English text as input and return the French translation.
 
 ## Setup
 This project requires GPU acceleration to run efficiently.
